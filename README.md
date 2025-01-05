@@ -26,7 +26,7 @@ To get started with this project, clone the repository and install the required 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/URL-Shortener.git
+   git clone https://github.com/Omansh-Sharma1/URL-Shortener.git
    ```
 2. Install dependencies:
    ```bash
